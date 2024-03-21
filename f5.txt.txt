@@ -1,0 +1,1 @@
+These sample input files cover various formats including plain text, CSV, JSON, XML, and binary. Use them to test your program's handling of different file types and contents. Adjust as needed based on your specific requirements.

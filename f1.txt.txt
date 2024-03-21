@@ -1,0 +1,5 @@
+This is a sample input file.
+It contains some text for testing purposes.
+Line 3 of the file.
+Another line here.
+Testing pipex.

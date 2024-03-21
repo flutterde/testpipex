@@ -1,0 +1,12 @@
+<students>
+    <student>
+        <name>John</name>
+        <age>30</age>
+        <city>New York</city>
+    </student>
+    <student>
+        <name>Emily</name>
+        <age>25</age>
+        <city>Toronto</city>
+    </student>
+</students>
